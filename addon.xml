@@ -399,9 +399,9 @@ Super Fav - Super Favourites MOD
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup"/>
 	<extension point="xbmc.addon.repository" name="[COLOR teal]Taox[/COLOR] [COLOR purple]Wizard[/COLOR] Repo">
-        	<info>https://github.com/taoxtrece/repository.taoxwizard/raw/master/addons.xml</info>
-			<checksum>https://github.com/taoxtrece/repository.taoxwizard/raw/master/addons.xml.md5</checksum>
-        	<datadir zip="true">https://github.com/taoxtrece/repository.taoxwizard/raw/master/</datadir>
+        	<info>https://tiendaenlinea.github.io/taoxwizardrepoo/addon.xml</info>
+			<checksum>https://tiendaenlinea.github.io/taoxwizardrepoo/addon.xml</checksum>
+        	<datadir zip="true">https://tiendaenlinea.github.io/taoxwizardrepoo/addon.xml</datadir>
 	</extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Taox Wizard</summary>
@@ -420,9 +420,9 @@ Super Fav - Super Favourites MOD
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
 	<extension point="xbmc.addon.repository" name="[COLOR teal]Taox[/COLOR] [COLOR purple]Wizard[/COLOR] Repo">
-        	<info>https://github.com/taoxtrece/repository.taoxwizard/raw/master/addons.xml</info>
-			<checksum>https://github.com/taoxtrece/repository.taoxwizard/raw/master/addons.xml.md5</checksum>
-        	<datadir zip="true">https://github.com/taoxtrece/repository.taoxwizard/raw/master/</datadir>
+        	<info>https://tiendaenlinea.github.io/taoxwizardrepoo/addon.xml</info>
+			<checksum>https://tiendaenlinea.github.io/taoxwizardrepoo/addon.xml</checksum>
+        	<datadir zip="true">https://tiendaenlinea.github.io/taoxwizardrepoo/addon.xml/</datadir>
 	</extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Taox Wizard Maintenance</summary>
@@ -434,9 +434,9 @@ Super Fav - Super Favourites MOD
 </addon>
 <addon id="repository.taoxwizard" name="[COLOR teal]Taox[/COLOR] [COLOR purple]Wizard[/COLOR] Repo" version="1.0.0" provider-name="[COLOR teal]Taox[/COLOR] [COLOR purple]Trece[/COLOR]">
 	<extension point="xbmc.addon.repository" name="[COLOR teal]Taox[/COLOR] [COLOR purple]Wizard[/COLOR] Repo">
-        	<info>https://github.com/taoxtrece/repository.taoxwizard/raw/master/addons.xml</info>
-			<checksum>https://github.com/taoxtrece/repository.taoxwizard/raw/master/addons.xml.md5</checksum>
-        	<datadir zip="true">https://github.com/taoxtrece/repository.taoxwizard/raw/master/</datadir>
+        	<info>https://tiendaenlinea.github.io/taoxwizardrepoo/addon.xml</info>
+			<checksum>https://tiendaenlinea.github.io/taoxwizardrepoo/addon.xml</checksum>
+        	<datadir zip="true">https://tiendaenlinea.github.io/taoxwizardrepoo/addon.xml</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>[COLOR teal]Taox[/COLOR] [COLOR purple]Wizard[/COLOR] Repo</summary>
